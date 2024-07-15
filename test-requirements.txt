@@ -6,3 +6,4 @@ pytest-asyncio==0.20.1;python_version>="3.7"
 pytest-cov==4.0.0
 pytest-httpserver==1.0.6
 pytest-rerunfailures==10.2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
